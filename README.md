@@ -83,6 +83,9 @@ A: 唯一可信方案：通过官方仓库代码+自主服务器部署，全程�
 
 ## 产品展示
 
+<details>
+<summary>点击展开截图预览</summary>
+
 ### PC 端
 
 <div align="center">
@@ -113,6 +116,8 @@ A: 唯一可信方案：通过官方仓库代码+自主服务器部署，全程�
     <img src="./docs/images/mobile/save1.png" width="200" alt="移动端资源转存">
   </div>
 </div>
+
+</details>
 
 ## 技术栈
 
@@ -349,6 +354,13 @@ docker-compose up -d
 - 👨‍💻 感谢所有为这个项目做出贡献的开发者们！
 - 👥 感谢所有使用本项目并提供反馈的用户！
 - 感谢所有给予支持和鼓励的朋友们！
+
+## 赞助
+本项目 CDN 加速及安全防护由 Tencent EdgeOne 赞助
+
+<a href="https://edgeone.ai/?from=github" target="_blank">亚洲最佳CDN、边缘和安全解决方案 - Tencent EdgeOne</a>
+
+<img title="亚洲最佳CDN、边缘和安全解决方案 - Tencent EdgeOne" src="https://edgeone.ai/media/34fe3a45-492d-4ea4-ae5d-ea1087ca7b4b.png" width="300">
 
 ## Star History
 
